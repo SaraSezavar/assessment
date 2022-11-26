@@ -1,2 +1,2 @@
 # assessment
-please run script database file
+please run script database file in sql server
